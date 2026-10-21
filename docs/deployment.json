@@ -1,0 +1,18 @@
+{
+  "release_date": "2026-10-21",
+  "format": "v2",
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "cell": [
+    192,
+    208
+  ],
+  "source_sha256": "0599a14e29054b591e5cd03fc2160904a89cbe8780e6d9ad46043e697208bda2",
+  "stored_download_sha256": "3effd4086bb1cc01d41309c4f0f71d28462222c79be74e61efd64d753b897fbb",
+  "download_rgba_matches_release": true,
+  "encoding_note": "Host re-encodes PNG; decoded pixels verified equal.",
+  "selection_changed": false,
+  "compatibility": "Fixed nine animation states and sixteen gaze poses; standalone thinking not runtime state."
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "frame": 0,
+    "coral_bbox": [
+      7,
+      51,
+      185,
+      165
+    ],
+    "alpha128_components": [
+      14803
+    ]
+  },
+  {
+    "frame": 1,
+    "coral_bbox": [
+      8,
+      51,
+      184,
+      164
+    ],
+    "alpha128_components": [
+      14799
+    ]
+  },
+  {
+    "frame": 2,
+    "coral_bbox": [
+      8,
+      50,
+      185,
+      164
+    ],
+    "alpha128_components": [
+      14886
+    ]
+  },
+  {
+    "frame": 3,
+    "coral_bbox": [
+      8,
+      51,
+      184,
+      164
+    ],
+    "alpha128_components": [
+      14789
+    ]
+  },
+  {
+    "frame": 4,
+    "coral_bbox": [
+      7,
+      51,
+      184,
+      165
+    ],
+    "alpha128_components": [
+      14800
+    ]
+  },
+  {
+    "frame": 5,
+    "coral_bbox": [
+      8,
+      51,
+      184,
+      165
+    ],
+    "alpha128_components": [
+      14770
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "review_type": "Independent still review of minimal left-dot waiting revision",
+  "still_only_review": true,
+  "realtime_or_player_qa": false,
+  "assets_reviewed": [
+    "previews/waiting-left-comparison.png",
+    "previews/waiting-left-frames.png"
+  ],
+  "acceptable": true,
+  "blockers": [],
+  "dot_position_and_contact": "One/two/three-dot groups now sit over the upper-left head edge. All visible dots appear to touch the coral top edge with minimal overlap; no intentional air gap is present. This matches the specified minimum-contact interpretation, not a floating-dot treatment.",
+  "spacing": "Dots are individually legible and separated horizontally. The group occupies a small left corner rather than spanning the head. No clipping of the first or third dot is visible.",
+  "identity_and_scale": "Body and tab proportions are very close to previous waiting; short broad coral form, inward chevrons except the blink, four legs and broad center gap are retained. Against approved idle, waiting remains slightly shorter and has upward-angled tabs; these differences read as pose variation rather than an identity change.",
+  "gesture": "Raised short tabs plus restrained ellipsis cycle and blink convey gentle expectant waiting. Large body movement is not apparent in the still strip.",
+  "cleanliness": "No bubble, connector circles, extra hands, detached body pieces, or visible clipping.",
+  "reported_connectivity_evidence": "Supplemental connectivity check reports one component in each of six frames at alpha threshold 128; this was not independently recomputed for this visual review.",
+  "limitations": "No playback timing, smoothness or realtime claim. Exact pixel connectivity not independently measured."
+}
